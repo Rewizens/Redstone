@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "2b4a943"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_damage_mult.smx"
+  }
+}

@@ -1,0 +1,10 @@
+"Updater" {
+  "Information" {
+    "Version" {
+      "Latest" "5ea8ceb"
+    }
+  }
+  "Files" {
+    "Plugin" "Path_SM/plugins/nd_commander_demote.smx"
+  }
+}
